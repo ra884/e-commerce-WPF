@@ -23,6 +23,7 @@
                 <PasswordBox BorderThickness="2" BorderBrush="Black" Margin="55 0 0 0"  Name="pass" Width="600"></PasswordBox>
             </StackPanel>
             <Button Width="150" HorizontalAlignment="Center" BorderThickness="2" BorderBrush="Black" Margin="0 50 0 0" Height="50" Background="White" FontSize="20" FontWeight="Bold" Click="Button_Click">Sign In</Button>
+            <Button Width="100" Height="50">to home</Button>
         </StackPanel>
     </Grid>
 </Page>
